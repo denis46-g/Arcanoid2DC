@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 588723c347dd8b74c9093d0d54483910
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameData: {instanceID: 0}
+  - ScrollbarPhone: {instanceID: 0}
+  - ScrollbarSoundEffects: {instanceID: 0}
+  - ButtonThisGame: {fileID: 5040241543497301302, guid: 4c4207d669f3d1b4cb6beced0456c230, type: 3}
+  - audioSrcPhone: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

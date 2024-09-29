@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3b4971489017c94eb6915c1c5ab97cc, type: 3}
+  m_Name: GameData
+  m_EditorClassIdentifier: 
+  level: 1
+  balls: 8
+  points: 70
+  pointsToBall: 70
+  resetOnStart: 1
+  music: 1
+  sound: 1
+  is_reset: 0
+  bonusBaseFrequency: 1
+  bonusSlowFrequency: 1
+  bonusFastFrequency: 1
+  bonusBallFrequency: 1
+  bonusTwoFrequency: 1
+  bonusTenFrequency: 1
